@@ -44,12 +44,16 @@ Finally lets talk about the changes happening with this patch in more indepth.
 
   - __G Rank Categorys Reorganization__
     - Another change i made is to reorganize the Questlists in G Rank, the vanilla version has around 80ish unique Monster encounters in G Rank including some G Rank exclusive Monsters. But its badly organized the ranks are bloated up with Duplicate quests of nearly each Monster which are exactly 1:1 the same quests dont be fooled they just change the Location or Season/Time. And it maybe true that certain fights play out differenly depending on those factors but its a very lazy way to bloat up the content for g rank. Rathian for Example has 7 duplicates for whatever reason and technically you only have like 3~6 unique Monster encounters in like 3★ G Rank and then over 10 in another one. Its very weirdly balanced.<br>
+    
     - So what i did is i balanced all 7 ranks out manually with the same approach i did in LR/HR i sorted t he list by Objectivly Difficulty keeping in mind how Monster Hunter introduces normally monsters in other title with raising difficulty from Top to Down. So each rank has now 11~13 quests needed or grinding GRP to the next rank and then the Duplicates. The last GRP quest is usually the Exclusive G rank Monster for each Rank since those feel a bit special before going to the next Rank i kept it that way. They are now the Artifical "Urgent" quests needed normally for the next rank but technically you could abuse the system and skip them completly. So it depends on your own self control since theres no good way for me currently to prevent those abuses without making it completly terrible for everyone.
 
   - __GR Level Tiers__
     - The G Rank quests are divided by GR levels in each Rank to emulate the sense of progression and unlocking more content step by step. I asked a bunch of people in the community about their opinion and let them vote what feels better to them or sounds better i simply gone with the one with the most Votes even tho theres was always a tight gap between 2 options out of the 3. So some of you might not be happy with it others will.<br>
+    
     - Its not to hard to understand and pretty simple each Rank you have different Sets of GR Level usually around 4 different ones each of those quests give the same amount of GRP means all GR1 Quests give the same amount all GR3 give the same amount of GRP. You need to clear out the same amount of Quests present in each Tier so if you Do 4 Quests from the 4 avaible GR1 Quests you will get enough points to go to the next Tier which would be GR3 in this case. Then you do 3 Quests out of this 3 GR3 Quests and you go to the next etc etc... there will be a little image to make it more visual understandable hopefully <br>
+    
     - How you do the quests is completly up to you the intended way is pretty much doing atleast every quests once means all 4 quests in GR1 for example to introduce you technically to all G rank fights and content avaible. But you obviously can choose to just do x4 Times Velocidrome or x2 Velocidrome and then x2 Iodromes etc... and will just have the same effect. So if you dont like a Monster quests take another from the current GR level Tier.<br>
+    
     - The Duplicate quests dont give any GRP those quests are purely for Material Farm so if you wanna Farm something but dont wanna mess up the GR level progression you can take on those quests to get materials. Sadly tho not all quests have duplicates so some Monsters you are maybe forced for now to grind with GRP Gain example Nono Orugaron. At some later point i might can add duplicates for all of them but for now thats a Drawback we need to deal with.
 
 ![Example](https://user-images.githubusercontent.com/88888479/175997490-40abb5ed-7e7b-414e-9896-2194fb5cadfe.png)
@@ -59,7 +63,7 @@ Finally lets talk about the changes happening with this patch in more indepth.
 > It was planned to use the Item Distribution system in the game or the "Gift" system as you would call it. I made a bunch of cool packages with Poogie outfits other goodies and normall giving you a free batch of x100 Permits per Rank when reaching the GR Goals with Progression. Sadly this is not stable enough for Public use right now so it got canceled for the time being Sadge.
 
   - __Zenith Progression__
-    - Well with all the Lists Organized Zenith is the only one i cant Maniuplate at the moment in terms of Order so the Zenith categirys for each Monster is the same but the GR Level Tiers are different obviously but i will give you a little List here how it is Organized so you can use this as Guideline.
+    - Well with all the Lists Organized Zenith is the only one i cant Maniuplate at the moment in terms of Order so the Zenith categorys for each Monster is the same but the GR Level Tiers are different obviously but i will give you a little List here how it is Organized so you can use this as Guideline.
 
   - GR 478
     - Hypnoc
