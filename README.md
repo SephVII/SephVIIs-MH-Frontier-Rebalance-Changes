@@ -71,35 +71,8 @@ Finally lets talk about the changes happening with this patch in more indepth.
   - __Zenith Progression__
     - Well with all the Lists Organized Zenith is the only one i cant Maniuplate at the moment in terms of Order so the Zenith categorys for each Monster is the same but the GR Level Tiers are different obviously but i will give you a little List here how it is Organized so you can use this as Guideline.
 
-  - GR 478
-    - Hypnoc
-    - Plesioth
-    - Taikun Zamuza
-    - Baruragaru
-    - Khezu
+![ZenithChart](https://user-images.githubusercontent.com/88888479/176032823-a920643c-f91e-407d-9268-92c0959de41f.png)
 
-  - GR 533
-    - Blangonga
-    - Daimyo hermitaur
-    - Gravios
-    - Espinas
-    - Akura Vashimu
-    - Hyujikiki
-
-  - GR 599
-    - Inagami
-    - Toridcless
-    - Gasurabazura
-    - Giaorugu
-    - Anorupatisu
-    - Tigrex
-
-  - GR 658
-    - Midogaron
-    - Doragyurosu
-    - Rathalos
-    - Rukodiora
-    - Bogabadorumu
 
   - __GRP Gain Event Quests__
     - The Event quests for GRP Gain were moved to the end of G rank progression since they are not needed for that and are more purely used for Endgame grind like GSR for different Weapons. Also the Netcafe Requirement for the 2 Netcafe Quests were removed. You unlock the 2 Lower Tier Quests with GR 800 and the Higher 2 with GR 999. Later down the line i want to edit those quests to make them more difficult and interesting for the fun of it.
