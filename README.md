@@ -52,7 +52,7 @@ Finally lets talk about the changes happening with this patch in more indepth.
     - How you do the quests is completly up to you the intended way is pretty much doing atleast every quests once means all 4 quests in GR1 for example to introduce you technically to all G rank fights and content avaible. But you obviously can choose to just do x4 Times Velocidrome or x2 Velocidrome and then x2 Iodromes etc... and will just have the same effect. So if you dont like a Monster quests take another from the current GR level Tier.<br>
     - The Duplicate quests dont give any GRP those quests are purely for Material Farm so if you wanna Farm something but dont wanna mess up the GR level progression you can take on those quests to get materials. Sadly tho not all quests have duplicates so some Monsters you are maybe forced for now to grind with GRP Gain example Nono Orugaron. At some later point i might can add duplicates for all of them but for now thats a Drawback we need to deal with.
 
-([grafik](https://user-images.githubusercontent.com/88888479/175997490-40abb5ed-7e7b-414e-9896-2194fb5cadfe.png)
+([Example](https://user-images.githubusercontent.com/88888479/175997490-40abb5ed-7e7b-414e-9896-2194fb5cadfe.png)
 
   - __Permits__
     - Permits are the way to try to Enforce the Artifical Urgents in G Rank. Each Rank and Origin, Exotic and Zenith have their own permit needed to take on the quests. The Permits are new Items and requirements to do G Rank quests, you will get a Bunch of Permits from the Artifical Urgent in each Rank as Sub A Reward. And then when you reach the Last GR Level Tier on the next Rank you will Unlock Permits to be Purchasable at the RoadShop in packs of x100 for 10 Points. Obviously this is easly abusable when you just take the time to grind the previous rank GRP to be in line with that level to Skip the Urgents technically no way to prevent that at the current time sorry your responsibility again..
@@ -104,6 +104,11 @@ Installation is very Simple its mostly just Drag and Drop + Replace so it should
 Go to the Top of the Manager and Select the Roadshop Editor from the Server Tools. Inside of that you can simply Hit the "Import" Button and choose my RoadShop.csv and its done. This replaces your Roadshop so if you made any custom changes to the shop already its simpler to just add the Permits to your roadshop. The Fastest and easiest way would be to simply Export your current Roadshop as .csv with the SaveManager then open both mine and yours copy the last 9 entries from MY .csv paste it into yours and Import your .csv back into your RoadShop.
 
 3. If you wanna revert the changes back to the same Install Process again with the BACKUP file download.
+
+![Example1](https://user-images.githubusercontent.com/88888479/176001357-64f5b376-d53d-4c3b-9594-2569d200fb37.png)
+![Example2](https://user-images.githubusercontent.com/88888479/176001465-10085afa-7e43-4b4d-9283-835efde04e1e.png)
+
+
 
 ## Patch Notes
   - __v1.0__
