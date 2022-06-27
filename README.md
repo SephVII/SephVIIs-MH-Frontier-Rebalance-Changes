@@ -3,14 +3,19 @@
 
 Well if you are not aware the vanilla G Rank has no Progression at all. As soon as you reach G Rank everything will be Unlocked and you could technically go right away with anything. Your only Guideline is the Hunter Navi but even that one tells you as Introduction starting with gurenzeburu which is 7★ the last Star Rank in G Rank. pretty weird hue ? Yep i found that the same. Well the G Rank Progression Patch tries to tackle some if this stuff with changes we gonna go through further down below.
 
-## ATTENTION BEFORE YOU START
-★★★<br>
+## ---------------------------------- ATTENTION BEFORE YOU START --------------------------------
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★ VERY IMPORTANT ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+__All GRP Calculations are done with default settings means NO BOOSTS in mind if you want the Full experience of this Patch dont use any Boosts while you go through the G Rank Progression this includes "LOGIN BOOST, GRP TICKETS and certain courses like PREMIUM". Dont use any of those boosts until you played through G Rank. This couldnt be done any other way otherwise it would be way of a hassle trying to include boosts and a hell of a nightmare to balance out without messing over people who dont use them.
+On the other Hand this is an option for people who dont care and wanna rush through use Boosts if you want to speed it up accordingly.<br>__
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  VERY IMPORTANT   ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
 Before you go wild here is a heads up this is definitly not the most ideal way the best would be adding Key Quests and Urgent Quests just like LR/HR, which is technical not possible at the current time and i needed to come up with an Artifical system. There was alot of things which were plant differently but sadly needed to be changed because of lack of resources to make it possible. How it is right now is the best Possible way i could come up with the current Knowledge, Tools and Possibilitys we have at the current time.<br>
 If there will be better ways in the Future i will eventually change or Rework this patch accordingly.<br><br>
 
 Also this Patch Includes Client and Server Files to be fully functional so make sure if your not the host of the server that everyone has the same changes sine i cant tell you what happens if not since i dont play Multiplayer and putting this in your own risk and responsibility.( Feel Pressured now ) <br>
 ★★★
-## ATTENTION BEFORE YOU START
+## ---------------------------------- ATTENTION BEFORE YOU START --------------------------------
 
 
 ## G Rank Progression Versions
