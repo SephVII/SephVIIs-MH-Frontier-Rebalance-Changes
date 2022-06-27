@@ -122,7 +122,7 @@ Go to the Top of the Manager and Select the Roadshop Editor from the Server Tool
 Huge Shoutout and Thanks to those people without this wouldnt be possible at all to be made.
   - [Chakratos](https://github.com/Chakratos)
   - [Malckyor](https://github.com/Malckyor)
-  - MHRyder
+  - [MHRyder](https://cdn.discordapp.com/attachments/536195980354387973/991052539917127700/unknown.png)
   - [Wish](https://github.com/sekaiwish)
 
 ## Special Thanks
