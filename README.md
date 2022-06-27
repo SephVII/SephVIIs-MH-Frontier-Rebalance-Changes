@@ -127,7 +127,7 @@ Special Thanks to those people that gave feedback or other help with this projec
   - Sera
   - supream
   - Dani
-  - Stormetro
+  - Stormetro<br>
   .....
   
   And many more..
