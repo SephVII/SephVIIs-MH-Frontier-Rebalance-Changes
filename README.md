@@ -80,6 +80,7 @@ Finally lets talk about the changes happening with this patch in more indepth.
 
 ## Installation
 Installation is very Simple its mostly just Drag and Drop + Replace so it should be straight forward except for the Server files.
+
 __Also i forgot to mention the Diva Defense quests are included in this questlists on the Server side, to do these quests you simply need to activate the Diva Defense Event in week 3. Just set the "Event" Value in the config file located in the Erupe Folder to 2 or 3 dont know which exactly and then talk to the cat in the white robe ingame next to the Diva Defense Gal to choose a Diva Defense Quest.__
 
 1. Extract the files inside the Download.zip and then drag and drop the content over the corrosponding Folders. You can either Drag and Drop "Erupe" and "Monster Hunter Frontier Online" folder in the same location or drag and drop the Content inside the download Folders from Erupe and MHFO into the same folders on your drive.
