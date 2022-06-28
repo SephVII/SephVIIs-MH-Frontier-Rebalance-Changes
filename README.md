@@ -32,7 +32,7 @@ There are 2 version avaible for now i had planned 3 but i wanna release this bef
 ## Drawbacks
 > All Versions
   - __GR Level Requirement__
-    - Settings quests to G Rank makes them automatically a "Fixed" Difficulty. For anyone who doesnt know the game has a System in G Rank which reduces your Defense by 150 for each ★ Level. This means if you have 1000 Defense you have only 850 on 1★ G Rank Quests and 700 on 2★ G Rank Quests. Normally you can adjust thos diffciulty which in return reduces the Loot including Carves you get from Monsters up to a minimum of literally nothing, also i was told that the system was never completly bugfree. Since the game throws you at 7★ G Rank quests with the Gurenzeburu introduction i doubt it has to much effect on the gameplay if you dont even know about it anyway.
+    - Settings quests to G Rank makes them automatically a "Fixed" Difficulty. For anyone who doesnt know the game has a System in G Rank which reduces your Defense by 150 for each ★ Level. This means if you have 1000 Defense you have only 850 on 2★ G Rank Quests and 700 on 3★ G Rank Quests. Normally you can adjust thos diffciulty which in return reduces the Loot including Carves you get from Monsters up to a minimum of literally nothing, also i was told that the system was never completly bugfree. Since the game throws you at 7★ G Rank quests with the Gurenzeburu introduction i doubt it has to much effect on the gameplay if you dont even know about it anyway.
 
 > Main Version
   - __Material Info and Equipment__
