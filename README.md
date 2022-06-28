@@ -3,7 +3,7 @@
 
 Well if you are not aware the vanilla G Rank has no Progression at all. As soon as you reach G Rank everything will be Unlocked and you could technically go right away with anything. Your only Guideline is the Hunter Navi but even that one tells you as Introduction starting with gurenzeburu which is 7★ the last Star Rank in G Rank. pretty weird hue ? Yep i found that the same. Well the G Rank Progression Patch tries to tackle some if this stuff with changes we gonna go through further down below.
 
-## ---------------------------------- ATTENTION BEFORE YOU START --------------------------------
+## -------------------------------- ATTENTION BEFORE YOU START ------------------------------
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★ VERY IMPORTANT ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 
