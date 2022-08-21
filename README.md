@@ -117,4 +117,4 @@ Special Thanks to those people that gave feedback or other help with this projec
   And many more..
   
 ## Whats Next ?
-Well i will take suggestions and feedback for this patch for now still but my next goal is to change the Material Costs on LR/HR Armor upgrades to be more convenient and less sanity succing.
+Editing and adjutsing my G rank progression Changes
