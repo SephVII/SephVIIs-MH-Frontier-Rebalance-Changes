@@ -19,22 +19,15 @@ Also this Patch Includes Client and Server Files to be fully functional so make 
 ## ------------------------ ATTENTION BEFORE YOU START ------------------------
 
 
-## G Rank Progression Versions
-There are 2 version avaible for now i had planned 3 but i wanna release this before i grow old. Its the same Patch with 1 Minor Difference.
-
-  - __G Rank Progression Main__
-    - This is the Main version the "Intended" way if you wish so by me. And has the Minor difference that HR5 & HR6 Quests are Split up in both of those ranks now. It made sense to me keeping the Pattern the compression does up since HR6 only has like 5 Monsters i found it such a waste and HR5 is very bloated with its 90ish quests stuffed together in one rank. So having HR1 + HR2 for Low Rank, HR3 + HR4 for High Rank and HR5 + HR6 for the Special rank before G lines perfectly up and just feels better. Obviously there is some drawback to this and i talk about that in a moment.
-
-  - __G Rank Progression Alternative__
-    - This is the same as Main but without the HR5 Split up so its in line with the latest Community Edition version + the G rank changes.
+  - __G Rank Progression__
+    - HR5 & HR6 Quests are Split up in both of those ranks now. It made sense to me keeping the Pattern the compression does up since HR6 only has like 5 Monsters i found it such a waste and HR5 is very bloated with its 90ish quests stuffed together in one rank. So having HR1 + HR2 for Low Rank, HR3 + HR4 for High Rank and HR5 + HR6 for the Special rank before G lines perfectly up and just feels better. Obviously there is some drawback to this and i talk about that in a moment.
 
 
 ## Drawbacks
-> All Versions
   - __GR Level Requirement__
     - Settings quests to G Rank makes them automatically a "Fixed" Difficulty. For anyone who doesnt know the game has a System in G Rank which reduces your Defense by 150 for each ★ Level. This means if you have 1000 Defense you have only 850 on 2★ G Rank Quests and 700 on 3★ G Rank Quests. Normally you can adjust thos diffciulty which in return reduces the Loot including Carves you get from Monsters up to a minimum of literally nothing, also i was told that the system was never completly bugfree. Since the game throws you at 7★ G Rank quests with the Gurenzeburu introduction i doubt it has to much effect on the gameplay if you dont even know about it anyway.
 
-> Main Version
+
   - __Material Info and Equipment__
     - Obviously the Main version has the drawback for Material info being not consistent anymore and some equipment gets delayed by 1 rank. This is not a big deal at all if you just pay attention for example if it says HR4 Orange Espinas thats not accurate anymore because Orange Espinas is now HR3. But its not dramatic since the monsters are still in their respective Ranks so Orange espinas is just a High Rank Monster so if it says HR4 doesnt matter if its HR3 or 4 since both are High Rank anyway if you get what i mean. Nonethless it is a drawback and something you need keep in mind also stuff like Equipment wise maybe gets delayed by 1 rank since some HR5 monsters are now in 6 so you need to change maybe your strategys and approaches getting through those Ranks. You could see it as a slight difficult increasing challenge but boiling down to just being unlock a little later then usually.
 
@@ -94,8 +87,13 @@ Go to the Top of the Manager and Select the Roadshop Editor from the Server Tool
 ![Example2](https://user-images.githubusercontent.com/88888479/176001465-10085afa-7e43-4b4d-9283-835efde04e1e.png)
 
 
-
 ## Patch Notes
+
+  - __Patch Notes for v1.1__
+    - Reduced Material Costs for all HR1 ~ HR6 Armors to the minimum
+    - Armor Spheres are added Back and are used in every Upgrade Lv ( Data used is the OG Capcom compression tables )
+    - Dropped Alternative Version since its to much work to maintaine several different versions ( sry alternative users )
+
   - __v1.0__
     - Inital Release
 
