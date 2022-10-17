@@ -29,6 +29,8 @@ If there will be better ways in the Future i will eventually change or Rework th
 
 Also this Patch Includes __Client__ and __Server__ Files to function as full experience so make sure if your not the host of the server that everyone has the same Client Files changes sicne i cant tell you what happens if not. I dont play Multiplayer and i gonna putting this in your own risk and responsibility.( Feel Pressured now ) <br>
 
+----------------------------------------------------------------------------------------
+
 ## ------------------------ G Rank Progression Info ------------------------
 
 
@@ -56,6 +58,8 @@ Since the game throws you at 7★ G Rank quests with the Gurenzeburu introductio
 
 <br>
 
+----------------------------------------------------------------------------------------
+
   - __Material Info and Equipment__
   
 The drawback for Material info being not consistent anymore and some equipment gets delayed by 1 rank.<br>
@@ -64,6 +68,7 @@ But its not dramatic since the monsters are still in their respective Ranks so O
 Nonethless it is a drawback and something you need keep in mind also stuff like Equipment you usually build in HR5 maybe gets delayed by 1 rank since some HR5 monsters are now in 6 so you need to change maybe your strategys and approaches getting through those Ranks.<br>
 At some point the Material Info will be fixed and adjusted properly and this will be neglactable drawback going poof.
 
+----------------------------------------------------------------------------------------
 
 ## G Rank Progression Changes
 
@@ -78,6 +83,8 @@ From what we know the game used to have GSR as locks which is literally GR Level
 
 <br>
 
+----------------------------------------------------------------------------------------
+
   - __GRP Gains__
   
 Another Huge Change is the GRP Gains. If you look at the vanilla state then you notice that the highest GRP per quest you can get outside of special event quests is 6000 for a Musou Hunt.<br>
@@ -87,6 +94,8 @@ After that its a matter of grinding which is way more convient since all G Rank 
 No more x1000 Dyuragaua kills for that Juicy 100 GR Levels, Play whatever you like in G Rank and level Organicly !
 
 <br>
+
+----------------------------------------------------------------------------------------
 
   - __G Rank Categorys Reorganization__
 
@@ -99,6 +108,8 @@ So each rank has now 11~13 quests needed or grinding GRP to the next rank. The l
 They are now the Artifical "Urgent" quests needed normally for the next rank.
 
 <br>
+
+----------------------------------------------------------------------------------------
 
   - __GR Level Tiers__
 
@@ -118,6 +129,8 @@ At some later point i might can add duplicates for all of them but for now thats
 
 <br>
 
+----------------------------------------------------------------------------------------
+
   - __Permits__
 
 Permits are the way to try to Enforce the Artifical Urgents in G Rank.<br>
@@ -127,6 +140,8 @@ With 2.0 of this Patch it also Introduces HR and GR Progression Rewards the GR P
 
 <br>
 
+----------------------------------------------------------------------------------------
+
   - __Zenith Progression__
 
 Well with all the Lists Organized Zenith is the only one i cant Maniuplate at the moment in terms of Order so the Zenith categorys for each Monster is the same but the GR Level Tiers are different obviously but i will give you a little List here how it is Organized so you can use this as Guideline.
@@ -134,6 +149,8 @@ Well with all the Lists Organized Zenith is the only one i cant Maniuplate at th
 ![ZenithChart](https://user-images.githubusercontent.com/88888479/196272801-72444275-d379-42c8-9138-b135db7c13e5.png)
 
 <br>
+
+----------------------------------------------------------------------------------------
 
   - __GRP Gain Event Quests__
 
@@ -162,6 +179,8 @@ Same Process goes for the Distribution.csv exactly the same as Roadshop.csv just
 ![Example2](https://user-images.githubusercontent.com/88888479/176001465-10085afa-7e43-4b4d-9283-835efde04e1e.png)
 
 
+----------------------------------------------------------------------------------------
+
 ## Patch Notes
 
   - __v1.0__
@@ -176,6 +195,8 @@ Same Process goes for the Distribution.csv exactly the same as Roadshop.csv just
     - Inital Release
     - Artifical G Rank Progression System
 
+----------------------------------------------------------------------------------------
+
 ## Credits
 
 Huge Shoutout and Thanks to those people without this wouldnt be possible at all to be made.
@@ -184,6 +205,8 @@ Huge Shoutout and Thanks to those people without this wouldnt be possible at all
   - [Malckyor](https://github.com/Malckyor)
   - [MHRyder](https://cdn.discordapp.com/attachments/536195980354387973/991052539917127700/unknown.png)
   - [Wish](https://github.com/sekaiwish)
+
+----------------------------------------------------------------------------------------
 
 ## Special Thanks
 
@@ -197,5 +220,7 @@ Special Thanks to those people that gave feedback or other help with this projec
   .....
   
   And many more really appreciate you guys..
+  
+----------------------------------------------------------------------------------------
   
 ## Thats It Have A Lovely Time And Happy Hunting ♥
