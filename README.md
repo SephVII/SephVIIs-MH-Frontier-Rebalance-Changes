@@ -54,6 +54,7 @@ For anyone who doesnt know the game has a System in G Rank which reduces your De
 This means if you have 1000 Defense you have only 850 on 2★ G Rank Quests and 700 on 3★ G Rank Quests. Normally you can adjust thos diffciulty which in return reduces the Loot including Carves you get from Monsters up to a minimum of literally nothing, also i was told that the system was never completly bugfree.<br>
 Since the game throws you at 7★ G Rank quests with the Gurenzeburu introduction i doubt it has to much effect on the gameplay if you dont even know about it anyway.
 
+<br>
 
   - __Material Info and Equipment__
   
@@ -68,10 +69,14 @@ At some point the Material Info will be fixed and adjusted properly and this wil
 
 Finally lets talk about the changes happening with this patch in more indepth.
 
+<br>
+
   - __GR Level Requirement__
   
 Of course the core of the Progression Change is the GR Requirements, G Rank quests are locked now behind GR Levels to emulate a sense of progression more in line with the Mainline instead of having no direction at all.<br>
 From what we know the game used to have GSR as locks which is literally GR Levels but individual for each weapon Type. Obviously thats a big huge Grind lockdown to keep players playing one of the classic MMORPG grinds having GR instead of GSR is way more Dynamic and gives you better freedom to use whatever weapon you like at whenever pace on the fly.
+
+<br>
 
   - __GRP Gains__
   
@@ -80,6 +85,8 @@ That 6000 is not even 1 GR level beyond GR 31 so you probably see what a massive
 Just by Playing through the G Rank categorys you will have a good substain of GR Levels. At the End of Zenith 4 you will be around 400+.<br>
 After that its a matter of grinding which is way more convient since all G Rank Quest give better GRP rates so even without boost you can reach Higher G Rank levels in a fraction of the time spend on the offical servers. And with Boost on Top of it Tremendously cut it down time wise.<br>
 No more x1000 Dyuragaua kills for that Juicy 100 GR Levels, Play whatever you like in G Rank and level Organicly !
+
+<br>
 
   - __G Rank Categorys Reorganization__
 
@@ -90,6 +97,8 @@ Rathian for Example has 7 duplicates for whatever reason and technically you onl
 So what i did is i balanced all 7 ranks out manually with the same approach i did in LR/HR i sorted the list by Objectivly Difficulty keeping in mind how Monster Hunter introduces normally in monster games with raising difficulty from Top to Down.<br>
 So each rank has now 11~13 quests needed or grinding GRP to the next rank. The last GRP quest is usually the Exclusive G rank Monster for each Rank since those feel a bit special before going to the next Rank i kept it that way.<br>
 They are now the Artifical "Urgent" quests needed normally for the next rank.
+
+<br>
 
   - __GR Level Tiers__
 
@@ -107,6 +116,8 @@ The Duplicate quests dont give any GRP those quests are purely for Monster Mater
 Sadly tho not all quests have duplicates so some Monsters you are maybe forced for now to grind with GRP Gain example Nono Orugaron.<br>
 At some later point i might can add duplicates for all of them but for now thats a Drawback we need to deal with.
 
+<br>
+
   - __Permits__
 
 Permits are the way to try to Enforce the Artifical Urgents in G Rank.<br>
@@ -114,12 +125,15 @@ Each Rank from G2 ~ G7 and Zenith have their own permit as Requirement needed to
 And then when you reach the Last GR Level Tier on the next Rank you will Unlock Permits to be Purchasable at the RoadShop in packs of x100 for 10 RdP.<br>
 With 2.0 of this Patch it also Introduces HR and GR Progression Rewards the GR Progression rewards give you x100 Permits per Rank when you reached the last GR level Tier for that Corrosponding Rank in case of GR2  GR level 11 as Example.<br>
 
+<br>
+
   - __Zenith Progression__
 
 Well with all the Lists Organized Zenith is the only one i cant Maniuplate at the moment in terms of Order so the Zenith categorys for each Monster is the same but the GR Level Tiers are different obviously but i will give you a little List here how it is Organized so you can use this as Guideline.
 
 ![ZenithChart](https://user-images.githubusercontent.com/88888479/196272801-72444275-d379-42c8-9138-b135db7c13e5.png)
 
+<br>
 
   - __GRP Gain Event Quests__
 
@@ -150,13 +164,17 @@ Same Process goes for the Distribution.csv exactly the same as Roadshop.csv just
 
 ## Patch Notes
 
-  - __Patch Notes for v1.1__
-    - Reduced Material Costs for all HR1 ~ HR6 Armors to the minimum
-    - Armor Spheres are added Back and are used in every Upgrade Lv ( Data used is the OG Capcom compression tables )
-    - Dropped Alternative Version since its to much work to maintaine several different versions ( sry alternative users )
+  - __v1.0__
+    - Inital Release
+
+  - __v1.1__
+    - Reduced Material Costs for all HR1 ~ HR6 Armors to the minimum.
+    - Armor Spheres are added Back and are used in every Upgrade Lv ( Data used is the OG Capcom compression tables ).
+    - Dropped Alternative Version since its to much work to maintaine several different versions at this point ( sry alternative users ).
 
   - __v1.0__
     - Inital Release
+    - Artifical G Rank Progression System
 
 ## Credits
 
