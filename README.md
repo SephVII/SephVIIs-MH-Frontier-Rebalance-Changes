@@ -205,13 +205,17 @@ Same Process goes for the Distribution.csv exactly the same as Roadshop.csv just
 
 ## Patch Notes
 
-  - __v1.0__
-    - Inital Release
+  - __v2.0__
+    - ...WIP
+
+<br>
 
   - __v1.1__
     - Reduced Material Costs for all HR1 ~ HR6 Armors to the minimum.
     - Armor Spheres are added Back and are used in every Upgrade Lv ( Data used is the OG Capcom compression tables ).
     - Dropped Alternative Version since its to much work to maintaine several different versions at this point ( sry alternative users ).
+
+<br>
 
   - __v1.0__
     - Inital Release
