@@ -201,6 +201,9 @@ Same Process goes for the Distribution.csv exactly the same as Roadshop.csv just
 ![Example2](https://user-images.githubusercontent.com/88888479/176001465-10085afa-7e43-4b4d-9283-835efde04e1e.png)
 
 
+NOTE : If the Importing doesnt Work for you via Chakratos SaveManager try this
+https://discord.com/channels/368424389416583169/927264741079019570/1031989485652672642
+
 ----------------------------------------------------------------------------------------
 
 ## Patch Notes
