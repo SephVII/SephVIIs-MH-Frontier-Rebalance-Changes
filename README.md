@@ -206,7 +206,103 @@ Same Process goes for the Distribution.csv exactly the same as Roadshop.csv just
 ## Patch Notes
 
   - __v2.0__
-    - ...WIP
+    ## __Added__
+- Added a new Rank following up after G7, Called "Legend Rank"
+- Added a Dedicated Musous Rank Unifying them except 1 Musou Zinogre ( technical reason )
+- Added a Dedicated Rank for all Duplicated G Rank Quests giving No GRP Points
+- Added Legend Permit
+- Added Progression Packages Corrosponding to HR1~HR6 & GR1~350 ( Server Side Content )
+- Added a Custom Keo Quest to be used as Progression in Legend Rank
+- Added Malckyors 200ish Deco & Other quests from his 0.4 Patch
+- Added a Reworked Upgrade Table for the "Akura F" Path armor. As Teaser and Test for Future Reworks to come
+- Added a Poogie Ticket Custom Quest to make them Farmable ( Not Guranteed % Bases to Prevent Abuse )
+   - Avaible under G Event Quests
+      - 15 % : x1  10P Tkt
+      -   5 % : x2  10P Tkt
+      -   3 % : x3  10P Tkt
+      -   7 % : x1  30P Tkt
+      -   3 % : x2  30P Tkt
+      -   1 % : x1  30P Tkt
+- Added a My Mission Ticket Custom Quest to make them Farmable ( Not Guranteed % Bases to Prevent Abuse )
+   - Avaible under G Event Quests
+      - 15 % : x  2 My Mission Tkt
+      -   5 % : x  5 My Mission Tkt
+      -   3 % : x10 My Mission Tkt
+- Added a Gou Ticket Custom Quest to make them Farmable ( Not Guranteed % Bases to Prevent Abuse )
+   - Avaible under HR Event Quests
+      - 15 % : x  2 Gou Tkt
+      -   5 % : x  5 Gou Tkt
+      -   3 % : x10 Gou Tkt
+- Added a Shiten Ticket Custom Quest to make them Farmable ( Not Guranteed % Bases to Prevent Abuse )
+   - Avaible under G Event Quests
+      - 15 % : x2 Shiten Tkt
+      -   5 % : x3 Shiten Tkt
+      -   3 % : x5 Shiten Tkt
+- Added a bunch of New Recipes to the Special Combo Category at the Combiner NPC ( Replacing some Large Lucky Charm ones )
+- Added Recipes are the following they follow a Fixed theme of LR/HR > Gou > G Recipes Amount Received changes with Tier
+   - Only Red Soul Fruit and Dragon Attack are missing they crash the game. 
+      - Ultra Hot Drink
+      - Ultra Cool drink
+      - Hi-Speed Whetstone
+      - Perfect Whetstone
+      - G Whetstone
+       - Sleep Smoke Balls
+      - Sedation Ball
+      - Recovery Ball
+      - All Skill Fruits
+      - All Elemental Resist Fruits
+      - All Elemental Attack Fruits
+- Added Flounder, Kamu & Mochi Fruit to Road Shop to Enchance added Combiner Recipes
+
+
+
+## __Changed__
+- HR1~HR6 Questlists got some of their quests moved to reflect a more Organic Progression
+- HR5 Fully Split and Adjusted into HR6 both form now "Elite Rank" following the same Theme as HR1~HR4
+- All GR Level Requirements Overhauled / Reworked for more Organic Gameplay
+- All GRP Gains on G Rank Quests Overhauled / Reworked for more Organic Gameplay
+- Pushed some of the "Harder" G7 Quests into Legend Rank and mix and matched other quests in for Progression
+- Merged Origin/Burts & Exotic G Ranks into Legend Rank Including their Quests as Natural Progression in there
+- Changed the Default Restyle & Item+ Equipment Box Pages Distributions to Reflect Progression
+- GR Lv.150 has now a Break until you grind to GR Lv.200 to Unlock the first Zenith Quests
+- Zenith Progression Reworked with Input from the Community ( New Graphic Chart added in the Github README )
+- Zenith GR Lv Progression changed to a Consistent Number system
+- Tripled HR3 Yama Tsukami´s Quest Reward amount to reflect the time investment in this terrible quest design ( % is the same )
+- Roadshop Adjustments Reflecting Permit Changes and Other
+   -  Mostly for Balance reason
+      - Small and Large Bone Husk Cost Increased Quantity changed Category moved
+      - Removed Exotic & Burst / Origin Permits
+      - Power & Purity Rituals, Cost increased, Quantity Changed
+- Improved All Server Side Quest Translations with Enchancements and Finalizations
+- MASSIVE File Optimization going down from 3k to 500 Files
+- Merged and Included The Armor Upgrade Material Cost Patch
+
+
+
+## __Removed__
+- Removed Origin & Exotic Permits 
+- Removed the Default Poogie Costume Distribution ( They are Included Naturally in the new Progression Packages added )
+- Removed Note Quests from Server Side ( HR Event ), since they are Included in the 200 Quest addition under Premium Quests
+- Removed Server Side Event Quest Requirements except for those where it makes sense ( Nier Collab Quests Mainly Speaking )
+- Removed Duplicate Event Quests such as Musous
+
+
+
+## __Fixes__
+- Fixed Abio HC ??? It just works apparently now
+- Fixed Carving Tables for HC Red Khezu having a 56k % Chance to Carve Basarios Wings
+- Fixed the HR1~HR6 Quests showing the wrong HR when moved to another rank
+
+
+## __Stuff That Didnt Make It In Time__
+
+This is Stuff i worked on while doing 2.0 but either needed to ditch them for now due to Tools / Knowledge Impossibility or Time Shortage for 2.0 release.
+
+- Increasing GCP Ticket Points Received from them
+- Removing Premium Quest Requirements
+- Removing HC from GRP Quests
+- Changing GRP Farming Quests to be more Challenging
+- Adding the Function To Preview Equipment Upgrades Directly at the Blacksmith
 
 <br>
 
